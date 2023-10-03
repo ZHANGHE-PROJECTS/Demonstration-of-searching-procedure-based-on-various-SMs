@@ -1,4 +1,4 @@
-# Demonstration-of-searching-procedure-for-various-SMs
+# Demonstration-of-searching-procedure-based-on-various-SMs
 
 ### A video demonstrating the searching procedure for various SMs
 
