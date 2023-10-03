@@ -1,6 +1,6 @@
-# Demonstration-of-searching-procedure-based-on-various-SMs
+# Demonstration of searching procedure based on various SMs
 
-### A video demonstrating the searching procedure for various SMs
+### A video demonstrating the searching procedure based on various SMs
 
 It records the process of searching for risky car-following scenarios using six surrogate models and random testing method. We adopt an Operational Design Domain with six high-risk scenarios. It also demonstrates the comparison of the searching efficiency and accuracy of different surrogate models
  
